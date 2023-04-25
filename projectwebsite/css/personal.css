@@ -1,0 +1,59 @@
+img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 25%;
+
+}
+
+body{
+    background-color:beige;
+}
+
+.Title{
+    text-align:center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:brown;
+
+}
+
+.Bullet{
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:burlywood;
+}
+
+.Anchor{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:cadetblue;
+}
+
+.Fullresume{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+
+.software{
+text-align: left;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: larger;
+color: black;
+
+}
+
+.Talents{
+text-align: left;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: larger;
+color: black;
+}
+
+.video{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: left;
+font-size: larger;
+color:brown;
+
+}
